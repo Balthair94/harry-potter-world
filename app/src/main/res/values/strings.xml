@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Harry Potter World</string>
+
+    <string name="no_houses_found">There were no houses found</string>
 </resources>

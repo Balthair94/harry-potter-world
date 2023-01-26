@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="image_height">72dp</dimen>
+    <dimen name="image_width">64dp</dimen>
+
+    <dimen name="space_zero">0dp</dimen>
+    <dimen name="space_tiny">4dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="space_normal">16dp</dimen>
+    <dimen name="space_large">24dp</dimen>
+    <dimen name="space_large_x">32dp</dimen>
+    <dimen name="space_large_xx">40dp</dimen>
+    <dimen name="space_large_xxx">48dp</dimen>
+</resources>
